@@ -11,31 +11,31 @@ h1 {
   position: relative;
 }
 .t {
-  transition: transform 800ms cubic-bezier(0.4, 0, 0.2, 1),
+  transition: transform 1000ms cubic-bezier(0.4, 0, 0.2, 1),
     color 1000ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .y {
-  transition: transform 800ms cubic-bezier(0.4, 0, 0.2, 1),
+  transition: transform 1000ms cubic-bezier(0.4, 0, 0.2, 1),
     color 1000ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .p {
-  transition: transform 800ms cubic-bezier(0.4, 0, 0.2, 1),
+  transition: transform 1000ms cubic-bezier(0.4, 0, 0.2, 1),
     color 1000ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .y {
-  transition: transform 800ms cubic-bezier(0.4, 0, 0.2, 1),
+  transition: transform 1000ms cubic-bezier(0.4, 0, 0.2, 1),
     color 1000ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .d {
-  transition: transform 800ms cubic-bezier(0.4, 0, 0.2, 1),
+  transition: transform 1000ms cubic-bezier(0.4, 0, 0.2, 1),
     color 1000ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .o {
-  transition: transform 800ms cubic-bezier(0.4, 0, 0.2, 1),
+  transition: transform 1000ms cubic-bezier(0.4, 0, 0.2, 1),
     color 1000ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .r {
-  transition: transform 800ms cubic-bezier(0.4, 0, 0.2, 1),
+  transition: transform 1000ms cubic-bezier(0.4, 0, 0.2, 1),
     color 1000ms cubic-bezier(0.4, 0, 0.2, 1);
 }
 .container:hover .t {
